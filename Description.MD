@@ -1,0 +1,1 @@
+The AI Mood Journal is an intelligent mental wellness assistant that helps users track their emotions, reflect on their daily moods, and receive personalized coping strategies. Users can either type or speak about how they feel, and the system uses AI-powered sentiment analysis & natural language processing (NLP) to detect emotions such as happiness, sadness, stress, or anxiety.
